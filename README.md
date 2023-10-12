@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muammar Yasir</h1>
+<h1 align="center">Hi 👋, I'm Ammar</h1>
 <h3 align="center">A IT College Student at Bhayangkara University</h3>
 
 - 🌱 I’m currently learning **Framework JavaScript**
