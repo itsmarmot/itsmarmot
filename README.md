@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://itsmarmot.github.io/web](https://itsmarmot.github.io/web)
 
-- 📝 I regularly write articles on [https://ejournal-ibik57.ac.id/index.php/junsibi](https://ejournal-ibik57.ac.id/index.php/junsibi)
+- 📝 I regularly write articles on [https://ejournal-ibik57.ac.id/index.php/junsibi](https://ejournal-ibik57.ac.id/index.php/junsibi) [https://jurnal.itscience.org/index.php/digitech/article/view/3810](https://jurnal.itscience.org/index.php/digitech/article/view/3810)
 
 - 📫 How to reach me **muamaryssr2@gmail.com**
 
