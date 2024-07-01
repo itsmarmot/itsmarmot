@@ -1,32 +1,80 @@
-# Hi there 👋, I'm Muammar Yasir!
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1055">
+<!-- Intro  -->
+<h1 align="center">
+        <samp>Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, 初めまして I am
+                <b><a target="_blank" href="https://www.instagram.com/muamarasta">Muammar Yasir</a></b>
+        </samp>
+</h1>
 
-Welcome to my GitHub profile! I am passionate about data science and front-end development. Here you'll find my latest projects and contributions.
+<h3 align="center">I'm a passionate with Data Scientist and Programmer Fields</h3>
+<p align="center">During college I was very interested in web programming. After already known about Data Science i've focused on developing my interest and career in the AI, data and Machine Learning. I'm IT College Student at Computer Science Faculty</p>
 
-## 🛠 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=自分+を+信じて+成功+を+得る✊;Be+better+than+yesterday✨;Prayer+and+Endeavor+are+the+Keys🚀&center=true&width=1070&height=50"></a>
 
-## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmarmot&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmarmot&layout=compact&theme=radical)
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmarmot&theme=radical)
+<a target="_blank" align="center">
+  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+</a>
 
-## 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=itsmarmot&color=blueviolet)
+- 👀 I’m interested in data science, machine learning, and artificial intelligence
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muammar-yasir)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/muamarasta)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsmarmot)
+- 🖥️ My portfolio Website at <a href="https://itsmarmot.github.io/web" target="blank">Here</a>
 
----
+- 🤝 I’m available for collaboration in the world of IT and freelance projects
 
-*Note: Replace placeholders like `your-username`, `your-linkedin`, and `your-twitter` with your actual details.*
+- 💼 I’m currently looking for Internship as a Data Scientist or Frontend Developer
+
+- 📄 This is My Resume <a href="#">(Under Revision)</a>
+
+- 📫 Feel free to reach me out **muamaryssr2@gmail.com**
+
+<br/>
+<br/>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1055">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Tech Stack and Tools👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,ts,py,pytorch,anaconda,html,css,javascript,php,htmx,ai,matlab,mongodb,mysql,notion,azure,postgres,postman,pycharm,tensorflow,sklearn,nodejs,react,cassandra,laravel" />
+  </a>
+</p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Connect With Me🔗</h2></summary>
+  </ul>
+</div>
+<!--icons and links-->
+<p align="left">
+<a href="https://www.instagram.com/muamarasta" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="instagram" height="100" width="100" /></a>
+<a href="https://www.linkedin.com/in/muammar-yasir" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="100" width="100" /></a>
+<a href="https://www.twitter.com/muamarasta/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="twitter" height="100" width="100" /></a>
+<a href="https://wa.me/+6285811545669" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="whatsapp" height="100" width="100" /></a>
+<!-- <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>  -->
+
+<br/>
+<br/>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1055">
+<br/>
+
+## My Favorite Repo
+[![DataScienceProject](https://github-readme-stats.vercel.app/api/pin/?username=itsmarmot&repo=final-project-MSIB6&border_color=2A52BE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2A52BE)](https://colab.research.google.com/drive/1II1yT11bS4G63wndclu3EcCgNrkWEVeL?usp=sharing)
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1055">
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/itsmarmot/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmarmot&layout=compact&theme=algolia" alt="MuammarYasir" /></a> </p>
