@@ -20,7 +20,7 @@
 
 - 👀 I’m interested in data science, machine learning, and artificial intelligence
 
-- 🖥️ My portfolio Website at <a href="https://itsmarmot.github.io/web" target="blank">Here</a>
+- 🖥️ My portfolio Website at <a href="https://itsmarmot.github.io/web" target="blank">Here</a> <i>Update Soon</i>
 
 - 🤝 I’m available for collaboration in the world of IT and freelance projects
 
@@ -38,7 +38,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h2 style="display: inline-block">Tech Stack and Tools👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Languages and Tools🛠</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -69,8 +69,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1055">
 <br/>
 
-## My Favorite Repo
+## My Fav Repository⭐
 [![DataScienceProject](https://github-readme-stats.vercel.app/api/pin/?username=itsmarmot&repo=final-project-MSIB6&border_color=2A52BE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2A52BE)](https://colab.research.google.com/drive/1II1yT11bS4G63wndclu3EcCgNrkWEVeL?usp=sharing)
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmarmot&label=Profile%20views&color=0e75b6&style=flat" alt="MuammarYasir" /> </p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1055">
