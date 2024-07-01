@@ -12,7 +12,7 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=自分+を+信じて+成功+を+得る✊;Be+better+than+yesterday✨;Prayer+and+Endeavor+are+the+Keys🚀&center=true&width=1070&height=50"></a>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width = 50px></picture> **About me**
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
@@ -38,7 +38,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h2 style="display: inline-block">Languages and Tools🛠</h2></summary>
+    <summary><h2 style="display: inline-block">Languages and Tools</h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"></summary>
   </ul>
 </div>
 <!--tech stack icons-->
