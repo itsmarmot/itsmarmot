@@ -26,7 +26,7 @@
 
 - 💼 I’m currently looking for Internship as a Data Scientist or Frontend Developer
 
-- 📄 This is My Resume <a href="#">(Under Revision)</a>
+- 📄 This is <a href="https://drive.google.com/drive/folders/1JFQ4lNNo5jnymrvV74eqMow11Woxm4cE?usp=sharing">My Resume</a>
 
 - 📫 Feel free to reach me out **muamaryssr2@gmail.com**
 
@@ -44,7 +44,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ts,py,pytorch,anaconda,html,css,javascript,php,htmx,ai,matlab,mongodb,mysql,notion,azure,postgres,postman,pycharm,tensorflow,sklearn,nodejs,react,cassandra,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,ts,py,pytorch,anaconda,html,css,javascript,php,laravel,matlab,mongodb,mysql,notion,azure,postgres,postman,pycharm,tensorflow,sklearn,nodejs,react,cassandra" />
   </a>
 </p>
 
