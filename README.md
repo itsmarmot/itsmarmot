@@ -26,7 +26,7 @@
 
 - 💼 I’m currently looking for Internship as a Data Scientist or Frontend Developer
 
-- 📄 This is <a href="https://drive.google.com/drive/folders/1JFQ4lNNo5jnymrvV74eqMow11Woxm4cE?usp=sharing">My Resume</a> (Indonesian & English Version)
+- 📄 This is <a href="https://drive.google.com/drive/folders/1JFQ4lNNo5jnymrvV74eqMow11Woxm4cE?usp=sharing">My Resume</a> (<i>Indonesian & English Version</i>)
 
 - 📫 Feel free to reach me out **muamaryssr2@gmail.com**
 
