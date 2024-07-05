@@ -44,7 +44,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ts,py,pytorch,anaconda,html,css,javascript,php,laravel,matlab,mongodb,mysql,notion,azure,postgres,postman,pycharm,tensorflow,sklearn,nodejs,react,cassandra" />
+    <img src="https://skillicons.dev/icons?i=git,ts,py,pytorch,anaconda,html,css,javascript,php,laravel,matlab,mongodb,mysql,notion,r,azure,postgres,postman,pycharm,tensorflow,sklearn,nodejs,react,cassandra" />
   </a>
 </p>
 
