@@ -10,7 +10,7 @@
 <h3 align="center">I'm a passionate with Data Scientist and Programmer Fields</h3>
 <p align="center">During college I was very interested in web programming. After already known about Data Science i've focused on developing my interest and career in the AI, data and Machine Learning. I'm IT College Student at Computer Science Faculty</p>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=自分+を+信じて+成功+を+得る✊;Be+better+than+yesterday✨;Prayer+and+Endeavor+are+the+Keys🚀&center=true&width=1070&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=23&lines=自分+を+信じて+成功+を+得る✊;Be+better+than+yesterday✨;Prayer+and+Endeavor+are+the+Keys🚀&center=true&width=1070&height=50"></a>
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width = 50px></picture> **About me**
 
