@@ -2,13 +2,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1055">
 <!-- Intro  -->
 <h1 align="center">
-        <samp>Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, 初めまして I am
-                <b><a target="_blank" href="https://www.instagram.com/muamarasta">Muammar Yasir</a></b>
+        <samp>Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, 初めまして I'm
+                <b><a target="_blank" href="https://www.instagram.com/muamarasta">Amaru Kun</a><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></b>
         </samp>
 </h1>
 
 <h3 align="center">I'm a passionate with Data Scientist and Programmer Fields</h3>
-<p align="center">During college I was very interested in web programming. After already known about Data Science i've focused on developing my interest and career in the AI, data and Machine Learning. I'm IT College Student at Computer Science Faculty</p>
+<p align="center">During college I was very interested in web programming. After already known about Data Science i've focused on developing my interest and career in the ML, Data and Front-End. I'm IT College Student at Computer Science Faculty</p>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=27&lines=自分+を+信じて+成功+を+得る✊;Be+better+than+yesterday✨;Prayer+and+Endeavor+are+the+Keys🚀&center=true&width=1070&height=50"></a>
 
@@ -18,9 +18,9 @@
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 </a>
 
-- 👀 I’m interested in data science, machine learning, and artificial intelligence
+- 👀 I’m interested in Data Science, Machine Learning, and Web Programming
 
-- 🖥️ My portfolio Website at <a href="https://itsmarmot.github.io/web" target="blank">Here</a> <i>Update Soon</i>
+- 🖥️ My portfolio Website at <a href="https://itsmarmot.github.io/web" target="blank">Here</a> (<i>Update Soon</i>)
 
 - 🤝 I’m available for collaboration in the world of IT and freelance projects
 
