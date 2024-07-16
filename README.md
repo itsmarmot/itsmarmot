@@ -18,16 +18,12 @@
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 </a>
 
-- 👀 I’m interested in Data Science, Machine Learning, and Web Programming
-
+- 👀 I'm interested in Data Enthusiast, Machine Learning, and Web Programming
 - 🖥️ My portfolio Website at <a href="https://itsmarmot.github.io/web" target="blank">Here</a> (<i>Update Soon</i>)
-
-- 🤝 I’m available for collaboration in the world of IT and freelance projects
-
-- 💼 I’m currently looking for Internship as a Data Scientist or Frontend Developer
-
+- 🤝 I'm available for collaboration in the world of IT and freelance projects
+- 💼 I'm currently looking for Internship as a Data Analyst, Data Scientist or Frontend Developer
 - 📄 This is <a href="https://drive.google.com/drive/folders/1JFQ4lNNo5jnymrvV74eqMow11Woxm4cE?usp=sharing">My Resume</a> (<i>Indonesian & English Version</i>)
-
+- 📚 My published journals are available: <a href="https://ejournal-ibik57.ac.id/index.php/junsibi/article/view/893" target="_blank">JUNSIBI</a> and <a href="https://jurnal.itscience.org/index.php/digitech/article/view/3810" target="_blank">DIGITECH</a>
 - 📫 Feel free to reach me out **muamaryssr2@gmail.com**
 
 <br/>
