@@ -66,7 +66,7 @@
 <br/>
 
 ## My Fav Repository⭐
-[![DataScienceProject](https://github-readme-stats.vercel.app/api/pin/?username=itsmarmot&repo=stockPrice-forecasting&border_color=2A52BE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2A52BE)](https://colab.research.google.com/drive/1II1yT11bS4G63wndclu3EcCgNrkWEVeL?usp=sharing)
+[![DataScienceProject](https://github-readme-stats.vercel.app/api/pin/?username=itsmarmot&repo=stockPrice-forecasting&border_color=2A52BE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2A52BE)](https://colab.research.google.com/drive/1gAoeYimtM1EoPJJTMi6AbBXDt86_4-oC?usp=sharing)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 
