@@ -22,7 +22,6 @@
 - 🖥️ My portfolio Website at <a href="https://itsmarmot.github.io/web" target="blank">Here</a> (<i>Update Soon</i>)
 - 🤝 I'm available for collaboration in the world of IT and freelance projects
 - 💼 I'm currently looking for Internship as a Data Analyst, Data Scientist or Frontend Developer
-- 📄 This is <a href="https://drive.google.com/drive/folders/1JFQ4lNNo5jnymrvV74eqMow11Woxm4cE?usp=sharing">My Resume</a> (<i>Indonesian & English Version</i>)
 - 📚 My published journals are available: <a href="https://ejournal-ibik57.ac.id/index.php/junsibi/article/view/893" target="_blank">JUNSIBI</a> and <a href="https://jurnal.itscience.org/index.php/digitech/article/view/3810" target="_blank">DIGITECH</a>
 - 📫 Feel free to reach me out **muamaryssr2@gmail.com**
 
